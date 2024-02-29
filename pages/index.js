@@ -62,9 +62,7 @@ export default function Home() {
                             Strategic Marketing & Web Development Specialist
                         </h3>
                         <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-                            Freelancer providing services for programming and
-                            design content needs. Join me down below and let's
-                            get cracking!
+                            Join me down below and let's connect!
                         </p>
                         <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
                             <AiFillTwitterCircle />
@@ -95,8 +93,7 @@ export default function Home() {
                             digital products for both business and consumer use.
                         </p>
                         <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-                            I offer from a wide range of services, including
-                            brand design, programming and teaching.
+                            I offer from a wide range of services.
                         </p>
                     </div>
                     <div className="lg:flex gap-10">
